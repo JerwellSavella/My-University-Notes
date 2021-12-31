@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "4bfc5f32325620a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "219ac23de4f89492",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "UNIVERSITY/ReadMe.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6f341f5fd1502c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dd1960476cfeb3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d2c344aade9d10a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "334cf6aa41c5a958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f967d001ba288420",
+    "type": "split",
+    "children": [
+      {
+        "id": "b589b986df0d8287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b916b639110948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNIVERSITY/ReadMe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "672016573f08f493",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "219ac23de4f89492",
+  "lastOpenFiles": [
+    "UNIVERSITY/ReadMe.md",
+    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
+    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Electronics Circuit - Repair and Services (ATE01).md",
+    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Differential Calculus (Calc01).md",
+    "Module 1 - Review of Chemistry Principles.pdf.md",
+    "Module 4 - Fuels and Crystals.pdf.md"
+  ]
+}
