@@ -3,11 +3,11 @@ List of important university resources. (Math, Chemistry, Electronics)
 
 
 ## First year - First Semester
-Here's all of my important list of resources like pdf, Personal Notes, Video references etc. in one place from the first-term of my first year as an engineering student saved in my Obsidian Database.
+Here's all of my important list of resources from my classes (pdf, Personal Notes, Video references etc.) all in one place from the first-term of my first year as an engineering student saved in my Note and Database.
 
 You may have a copy of this file.
 
-How? Follow this Instructions:
+***Usage:***
 
 - Download and install obsidian into your computer. 
 
