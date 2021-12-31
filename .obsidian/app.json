@@ -1,5 +1,6 @@
 {
   "defaultViewMode": "preview",
   "foldHeading": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "promptDelete": false
 }

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UNIVERSITY/ReadMe.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/ReadMe.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,15 @@
   },
   "active": "219ac23de4f89492",
   "lastOpenFiles": [
-    "UNIVERSITY/ReadMe.md",
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Electronics Circuit - Repair and Services (ATE01).md",
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Differential Calculus (Calc01).md",
-    "Module 1 - Review of Chemistry Principles.pdf.md",
-    "Module 4 - Fuels and Crystals.pdf.md"
+    "README.md",
+    "ATTACHMENTS/Pasted image 20211231154245.png",
+    "ATTACHMENTS/Pasted image 20211231154250.png",
+    "ATTACHMENTS/Pasted image 20211231154039.png",
+    "ATTACHMENTS/Pasted image 20211231122854.png",
+    "ATTACHMENTS/Pasted image 20211231122842.png",
+    "ATTACHMENTS/Pasted image 20211231122810.png",
+    "ATTACHMENTS/Pasted image 20211227192212.png",
+    "ATTACHMENTS/Pasted image 20211227192115.png",
+    "ATTACHMENTS/Pasted image 20211227192031.png"
   ]
 }
