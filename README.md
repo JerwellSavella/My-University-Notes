@@ -13,10 +13,9 @@ You may have a copy of this file.
 
 ![Pasted image 20211223225118](https://user-images.githubusercontent.com/81293539/147811245-eee01718-213e-4bce-88d5-821aa413140b.png)
 
-- Clone this repo into your local machine, or request a copy of the folder from me through email. 
-Copy SSH 
+- Clone this repo into your local machine, Copy SSH key, Or you may also "Download ZIP" file.
 ![Pasted image 20211231154039](https://user-images.githubusercontent.com/81293539/147811469-a76bbf92-e31a-427f-9473-185fc81cbbdd.png)
-key  
+  
 
 - Type "git clone" in your bash terminal or local terminal, and then paste the SSH link you copied. 
 ![Pasted image 20211231154250](https://user-images.githubusercontent.com/81293539/147811512-79145fa9-cb92-4b0b-8640-8086ef5a4c09.png)
