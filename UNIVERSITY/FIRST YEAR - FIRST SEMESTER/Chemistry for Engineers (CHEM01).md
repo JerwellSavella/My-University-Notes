@@ -1,5 +1,5 @@
 Chemistry for Engineers
-[[University]] [[Notes]] [[Science]] 
+[[University]]
 #science #notes #college #school #university #engineering  
 
 ## **Module 1 - Review of Chemistry Principles**

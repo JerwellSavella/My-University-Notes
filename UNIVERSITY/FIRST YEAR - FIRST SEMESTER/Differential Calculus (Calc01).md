@@ -1,5 +1,5 @@
 **Differential Calculus**
-[[University]]   [[Notes]]  [[Math]]
+[[University]]
 #math #notes #college #school #university #engineering 
 
 
@@ -47,41 +47,41 @@ function
 
 
 ## **Lesson 1 - Intro to Functions**
-[[University]] [[Math]] [[Journal]]  
+[[University]]
 > ![[Lesson 1 Intro to Functions.pdf]]
 ## **Lesson 2 - Function Values**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 2 Function Values.pdf]]
 ## **Lesson 3 - Limits**
-[[University]] [[Math]] [[Journal]] 
+[[University]]
 > ![[Lesson 3 Limits.pdf]]
 ## **Lesson 4 - Continuity and Derivative**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 4 Continuity and Derivative.pdf]]
 ## **Lesson 5 - Rules for Differentiation**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 5 Rules for Differentiation.pdf]]
 ## **Lesson 6 - Higher Derivative and Implicit Differentiation**    
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 6 Higher Derivatives and Implicit Differentiation.pdf]]
 ## **Lesson 7 - Tangent and Normal Lines**
-[[University]] [[Math]] [[Journal]] 
+[[University]]
 > ![[Lesson 7 Tangent and Normal Lines.pdf]]
 ## **Lesson 8 - Maxima and Minima**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 8 Maxima and Minima.pdf]]
 ## **Lesson 9 - Applications of Derivative**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 9 Applications of Derivative.pdf]]
 ## **Lesson 10 - Trigonometric Functions**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 10 Trigonometric Functions.pdf]]
 ## **Lesson 11 - Inverse Trigonometric Functions**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 11 Inverse Trigonometric Functions.pdf]]
 ## **Lesson 12 - Logic Functions**
-[[University]] [[Math]] [[Journal]] 
+[[University]]
 > ![[Lesson 12 Log'c Functions.pdf]]
 ## **Lesson 13 - Exponential Functions**
-[[University]] [[Math]] [[Journal]] 
+[[University]] 
 > ![[Lesson 13 Exponential Functions.pdf]]

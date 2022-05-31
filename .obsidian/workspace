@@ -7,11 +7,8 @@
         "id": "219ac23de4f89492",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +95,15 @@
   },
   "active": "219ac23de4f89492",
   "lastOpenFiles": [
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
-    "Pagdalaw-Muli = March 17.pdf",
+    "UNIVERSITY/ReadMe.md",
     "README.md",
+    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
     "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Electronics Circuit - Repair and Services (ATE01).md",
     "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Differential Calculus (Calc01).md",
+    "Pagdalaw-Muli = March 17.pdf",
     "ATTACHMENTS/Pasted image 20211231154245.png",
     "ATTACHMENTS/Pasted image 20211231154250.png",
     "ATTACHMENTS/Pasted image 20211231154039.png",
-    "ATTACHMENTS/Pasted image 20211231122854.png",
-    "ATTACHMENTS/Pasted image 20211231122842.png"
+    "ATTACHMENTS/Pasted image 20211231122854.png"
   ]
 }

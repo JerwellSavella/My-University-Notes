@@ -1,5 +1,5 @@
 Electronics Circuit - Repair and Services
-[[University]]   [[Notes]] 
+[[University]] 
 #notes #college #school #university #engineering 
 
 
