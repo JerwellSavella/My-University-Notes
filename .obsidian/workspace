@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.0037841796875,
-    "collapsed": true
+    "width": 267.0037841796875
   },
   "right": {
     "id": "f967d001ba288420",
@@ -109,15 +108,15 @@
   },
   "active": "d00ee849e245fe2d",
   "lastOpenFiles": [
-    "screenshot.png.md",
+    "ATTACHMENTSreadMe-icon.jpg.md",
     "README.md",
+    "screenshot.png.md",
     "HOMEPAGE.md",
     "HOMEPAGES/LINKS.md",
     "HOMEPAGES/1ST-YEAR.md",
     "readMe-icon.jpg",
     "ATTACHMENTS/readMe-icon.jpg",
     "HOMEPAGES/TIMELINES.md",
-    "HOMEPAGES/RESOURCES.md",
-    "HOMEPAGES/RESEARH.md"
+    "HOMEPAGES/RESOURCES.md"
   ]
 }

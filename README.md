@@ -23,7 +23,8 @@ List of My important University Permanent Notes and Resources for **Bachelor's o
 ## View
 
 
-![Screenshot](readMe-icon.jpg)
+![readMe-icon](https://user-images.githubusercontent.com/81293539/178698552-38329bf3-8d67-47d4-968c-d484720419f0.jpg)
+
 
 
 
