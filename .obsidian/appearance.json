@@ -1,4 +1,18 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Obsidian gruvbox"
+  "baseFontSize": 14,
+  "cssTheme": "Prism",
+  "enabledCssSnippets": [
+    "homepage setting",
+    "Main-Dashboard",
+    "sharetype",
+    "homepage setting media mobile",
+    "Blockquote",
+    "Bold & Italics",
+    "Bubble Space",
+    "Custom font",
+    "Headlines Custom"
+  ],
+  "translucency": true,
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "Arial"
 }

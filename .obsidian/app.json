@@ -1,6 +1,19 @@
 {
   "defaultViewMode": "preview",
-  "foldHeading": true,
+  "foldHeading": false,
   "showLineNumber": false,
-  "promptDelete": false
+  "promptDelete": true,
+  "legacyEditor": false,
+  "readableLineLength": false,
+  "foldIndent": false,
+  "spellcheck": true,
+  "useTab": false,
+  "smartIndentList": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "tabSize": 4,
+  "autoConvertHtml": true,
+  "alwaysUpdateLinks": true
 }

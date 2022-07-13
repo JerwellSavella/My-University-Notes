@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "219ac23de4f89492",
+        "id": "d00ee849e245fe2d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -44,12 +48,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "34c21a51ba28d3f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.0037841796875,
+    "collapsed": true
   },
   "right": {
     "id": "f967d001ba288420",
@@ -65,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "219ac23de4f89492",
+  "active": "d00ee849e245fe2d",
   "lastOpenFiles": [
-    "UNIVERSITY/ReadMe.md",
+    "HOMEPAGE.md",
+    "HOMEPAGES/LINKS.md",
+    "HOMEPAGES/1ST-YEAR.md",
     "README.md",
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Chemistry for Engineers (CHEM01).md",
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Electronics Circuit - Repair and Services (ATE01).md",
-    "UNIVERSITY/FIRST YEAR - FIRST SEMESTER/Differential Calculus (Calc01).md",
-    "Pagdalaw-Muli = March 17.pdf",
-    "ATTACHMENTS/Pasted image 20211231154245.png",
-    "ATTACHMENTS/Pasted image 20211231154250.png",
-    "ATTACHMENTS/Pasted image 20211231154039.png",
-    "ATTACHMENTS/Pasted image 20211231122854.png"
+    "readMe-icon.jpg",
+    "ATTACHMENTS/readMe-icon.jpg",
+    "HOMEPAGES/TIMELINES.md",
+    "HOMEPAGES/RESOURCES.md",
+    "HOMEPAGES/RESEARH.md",
+    "HOMEPAGES/4TH-YEAR.md"
   ]
 }
