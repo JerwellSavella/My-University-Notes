@@ -1,5 +1,4 @@
----
----
+
 
 # My-University-Notes
 
@@ -23,6 +22,10 @@ List of My important University Permanent Notes and Resources for **Bachelor's o
 
 ## View
 
-![[ATTACHMENTS/readMe-icon.jpg]]
+
+![Screenshot](readMe-icon.jpg)
+
+
+
 
 
